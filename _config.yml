@@ -1,8 +1,6 @@
 name: SaaSy
-
-description: The sassiest sir
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+description: This bear is from Javelin Networks' HoneyPot Buster project, which I have nothing to do with but damn it is awesome.
+avatar: https://avatars.githubusercontent.com/u/68446092?s=460&u=912c23b5c4cc0173566692d1b1b767c4c994090d&v=4
 
 default:
   -
@@ -13,7 +11,7 @@ default:
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: saasysecurity@tutanota.com
-  github: barryclark/jekyll-now
+  github: saasysecurity
   rss: # just type anything here for a working RSS icon
   twitter: saasysecurity
 
