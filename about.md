@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am the SaaSiest security magician of them all wielding not but a keyboard. Hopefully you enjoy your stay, that's what life is all about after all.
+I am The Maddest Hatter of them all wielding not but a keyboard as I hack through the technical trees. Do enjoy your stay, that's what life is all about after all.
 
 ### More Information
 
