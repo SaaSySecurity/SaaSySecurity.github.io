@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am the SaaSiest security magician of them all wielding not but a keyboard. Hopefully you enjoy your stay, that's what life is all about after all.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+You'll find my contact information below if you'd like to communicate...
